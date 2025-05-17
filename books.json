@@ -1,0 +1,20 @@
+[
+    {
+        "id": "B001",
+        "title": "Python",
+        "author": "satya",
+        "quantity": 0
+    },
+    {
+        "id": "C001",
+        "title": "Python",
+        "author": "Sree",
+        "quantity": 5
+    },
+    {
+        "id": "D002",
+        "title": "pyth",
+        "author": "Devi",
+        "quantity": 6
+    }
+]
